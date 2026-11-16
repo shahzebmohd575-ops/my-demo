@@ -1,4 +1,4 @@
 # my-demo
 This is my first repository
 <br>
-Author Shahzeb Faizan
+Author Shahzeb (MR Faizan)
